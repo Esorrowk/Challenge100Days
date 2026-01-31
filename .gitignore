@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Playgrounds (служебные файлы)
+playground.xcworkspace/
+
+# Временные файлы
+*.swp
+*.tmpO
